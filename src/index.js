@@ -5,8 +5,8 @@ import './index.css';
 class Square extends React.Component {
     render() {
       return (
-        <button className="square">
-          {/* TODO */}
+        <button className="square w-24 h-24 mx-1 border border-blue-900">
+          {  }
         </button>
       );
     }
